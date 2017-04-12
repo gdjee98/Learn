@@ -1,0 +1,25 @@
+h1
+{
+ font-family: sans-serif;
+ color: white;
+ font-size: 15px;
+ border: 2px solid;
+ padding: 2.5px;
+ background-color: green; 
+
+}
+
+a
+{
+ font-family: sans-serif;
+ color: yellow;
+ font-size: 15px;
+ border: 2px solid;
+ padding: 2.5px;
+}
+
+body
+{
+  background-color: black;
+}	
+	
